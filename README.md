@@ -1,3 +1,18 @@
+
+# Portfolio Note: My Contributions to QED-C Benchmarks
+
+*This is a fork of the [QED-C Quantum Benchmarks](https://github.com/SRI-International/QC-App-Oriented-Benchmarks) repository. I enhanced this suite during my internship at SRI International.*
+
+### Key Engineering Contributions
+My work focused on expanding the **Hamiltonian Simulation** benchmarking capabilities:
+* **Feature Addition:** Implemented exact energy comparison and mirror circuit scaling for Hamiltonian simulation, integrated `Hamlib` library parsing into the benchmarking workflow.
+* **Code Location** Most of my contributions are in the "hamlib" and "hydrogen-lattice" folders. 
+
+**Impact:** Results from this code were highlighted in the IEEE paper: *[Paper Title]* ([Link]).
+
+---
+*(Original README continues below)*
+
 # Application-Oriented Performance Benchmarks for Quantum Computing
 
 This repository contains a collection of prototypical application- or algorithm-centric benchmark programs designed for the purpose of characterizing the end-user perception of the performance of current-generation Quantum Computers.

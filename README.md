@@ -8,7 +8,7 @@ My work focused on expanding the **Hamiltonian Simulation** benchmarking capabil
 * **Feature Addition:** Implemented exact energy comparison and mirror circuit scaling for Hamiltonian simulation, integrated `Hamlib` library parsing into the benchmarking workflow.
 * **Code Location** Most of my contributions are in the "hamlib" and "hydrogen-lattice" folders. 
 
-**Impact:** Results from this code were highlighted in the IEEE paper: *[Paper Title]* ([Link]).
+**Impact:** Results from this code were highlighted in the IEEE paper: A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations (https://ieeexplore.ieee.org/abstract/document/10949677).
 
 ---
 *(Original README continues below)*

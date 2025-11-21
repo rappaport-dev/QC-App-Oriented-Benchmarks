@@ -6,7 +6,8 @@
 ### Key Engineering Contributions
 My work focused on expanding the **Hamiltonian Simulation** benchmarking capabilities:
 * **Feature Addition:** Implemented exact energy comparison and mirror circuit scaling for Hamiltonian simulation, integrated `Hamlib` library parsing into the benchmarking workflow.
-* **Code Location** Most of my contributions are in the "hamlib" and "hydrogen-lattice" folders. 
+* **Code Location** Most of my contributions are in the "hamlib" and "hydrogen-lattice" folders.
+* **PRs** See my list of PRs here: https://github.com/SRI-International/QC-App-Oriented-Benchmarks/issues?q=is%3Apr%20author%3Arappaport-dev
 
 **Impact:** Results from my work on the code  code were highlighted in the IEEE paper: A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations (https://ieeexplore.ieee.org/abstract/document/10949677) and also in Quantum algorithm exploration using application-oriented performance benchmarks (https://arxiv.org/pdf/2402.08985)
 
